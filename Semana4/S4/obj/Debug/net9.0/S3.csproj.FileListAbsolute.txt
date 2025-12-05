@@ -1,0 +1,56 @@
+C:\Users\onewi\Desktop\Semana3\S3\bin\Debug\net9.0\S3.exe
+C:\Users\onewi\Desktop\Semana3\S3\bin\Debug\net9.0\S3.deps.json
+C:\Users\onewi\Desktop\Semana3\S3\bin\Debug\net9.0\S3.runtimeconfig.json
+C:\Users\onewi\Desktop\Semana3\S3\bin\Debug\net9.0\S3.dll
+C:\Users\onewi\Desktop\Semana3\S3\bin\Debug\net9.0\S3.pdb
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\S3.AssemblyInfoInputs.cache
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\S3.AssemblyInfo.cs
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\S3.csproj.CoreCompileInputs.cache
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\S3.dll
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\refint\S3.dll
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\S3.pdb
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\S3.genruntimeconfig.cache
+C:\Users\onewi\Desktop\Semana3\S3\obj\Debug\net9.0\ref\S3.dll
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\S3.AssemblyInfoInputs.cache
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\S3.AssemblyInfo.cs
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\S3.csproj.CoreCompileInputs.cache
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\S3.dll
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\refint\S3.dll
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\S3.pdb
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\bin\Debug\net9.0\S3.exe
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\bin\Debug\net9.0\S3.deps.json
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\bin\Debug\net9.0\S3.runtimeconfig.json
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\bin\Debug\net9.0\S3.dll
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\bin\Debug\net9.0\S3.pdb
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\S3.genruntimeconfig.cache
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana3\S3\obj\Debug\net9.0\ref\S3.dll
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\bin\Debug\net9.0\S3.exe
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\bin\Debug\net9.0\S3.deps.json
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\bin\Debug\net9.0\S3.runtimeconfig.json
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\bin\Debug\net9.0\S3.dll
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\bin\Debug\net9.0\S3.pdb
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\S3.AssemblyInfoInputs.cache
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\S3.AssemblyInfo.cs
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\S3.csproj.CoreCompileInputs.cache
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\S3.dll
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\refint\S3.dll
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\S3.pdb
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\S3.genruntimeconfig.cache
+C:\Users\onewi\Documents\Eligardo Agos-Dici 2025\Semana4\S4\obj\Debug\net9.0\ref\S3.dll
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\bin\Debug\net9.0\S3.exe
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\bin\Debug\net9.0\S3.deps.json
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\bin\Debug\net9.0\S3.runtimeconfig.json
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\bin\Debug\net9.0\S3.dll
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\bin\Debug\net9.0\S3.pdb
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\S3.AssemblyInfoInputs.cache
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\S3.AssemblyInfo.cs
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\S3.csproj.CoreCompileInputs.cache
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\S3.dll
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\refint\S3.dll
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\S3.pdb
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\S3.genruntimeconfig.cache
+C:\Users\onewi\Documents\Eligardo\Semana4\S4\obj\Debug\net9.0\ref\S3.dll
